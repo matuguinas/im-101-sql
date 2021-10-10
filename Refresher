@@ -1,1 +1,31 @@
 SQL refresher
+
+Activity 1 
+
+-Download and Install My SQL Version 8.0 sever in my machine
+
+-Connecting and Disconnecting from the server
+
+-Entering Queries
+
+-Creating and Using a Database
+
+-Selecting All Data
+
+-Selecting Particular Columns
+
+-Selecting Particular Rows
+
+-Sorting of Rows
+
+-Date Calculations
+
+-Pattern Matching
+
+-Counting Rows
+
+-Using More than one table
+
+-Workbench event and pet
+
+-Drop Table
