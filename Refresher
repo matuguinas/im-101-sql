@@ -31,3 +31,20 @@ Activity 1
 -Inner Join
 
 -Drop Table
+
+-Using MySQL in Batch Mode
+
+-Example of Common Queries
+
+-The Maximum value for a column
+
+-The Row Holding the Maximum of a Certain Column
+
+-Maximum Column per Group
+
+-The Rows Holding the Group-wise Maximum of a Certain Column
+
+-Using Foreign Keys
+
+-Using AUTO_INCREMENT
+
